@@ -1,0 +1,9 @@
+{
+	"name": "hruthes-adf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ba45c64-c38f-420b-bfc0-55b7a73e587a",
+		"tenantId": "e59c14b6-f233-4142-9c75-12bfc17800a5"
+	}
+}
